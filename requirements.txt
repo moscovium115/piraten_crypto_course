@@ -1,0 +1,11 @@
+requests
+tweepy
+psycopg2
+streamlit
+plotly
+pandas
+yfinance
+ta
+binance
+python-binance
+pandas-ta
